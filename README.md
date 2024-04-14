@@ -82,4 +82,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Actualmente estoy abierto a ofertas laborales</b> si estas interesado en mis servicios <b>contactame a mi gmail o cualquiera de mis redes</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Actualmente estoy abierto a ofertas laborales</b> si estas interesado en mis servicios <b>contactame al gmail o a mis redes</b> :)</em>
