@@ -31,7 +31,7 @@
 
 - 🌱 Estoy aprendiendo **Tec. Programacion**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [Repositorio Web]((https://portfolio-web-nine-sandy.vercel.app/))
+- 👨‍💻 Todos mis proyectos estan disponibles en [Repositorio Web](https://portfolio-web-nine-sandy.vercel.app/)
 
 - 📫 Contactame en **tomasmartingoyeneche@gmail.com**
 
