@@ -31,7 +31,7 @@
 
 - 🌱 Estoy aprendiendo **Tec. Programacion**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [Repositorio Web](http://supun.traditionalme.life)
+- 👨‍💻 Todos mis proyectos estan disponibles en [Repositorio Web]([http://supun.traditionalme.life](https://portfolio-web-nine-sandy.vercel.app/))
 
 - 📫 Contactame en **tomasmartingoyeneche@gmail.com**
 
