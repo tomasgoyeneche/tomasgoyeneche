@@ -64,13 +64,6 @@
   </a>
 </p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare" />
-  </a>
-</p>
-
 - Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
